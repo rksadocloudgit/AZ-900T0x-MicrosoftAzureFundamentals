@@ -3,6 +3,7 @@
 - **[Link to Walkthroughs (HTML format)](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
+
 ## What are we doing?
 
 - To support these courses, we will need to make frequent updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
